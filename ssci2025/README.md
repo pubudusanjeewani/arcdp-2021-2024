@@ -40,7 +40,7 @@ pip install matplotlib networkx scikit-learn tensorflow numpy scikit-image
 
 ## Note on Code Development
 
-**Generative AI** (ChatGPT) was used in developing the code for this project in tasks such as code generation. However, the ideas, overall approach, and implementation are the result of the authors' contributions.
+**Generative AI** (ChatGPT) was used in developing the code. However, the ideas, overall approach, and implementation are the result of the authors' contributions.
 
 ## Citations
 
