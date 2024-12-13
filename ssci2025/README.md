@@ -20,7 +20,28 @@ The code provided in this repository uses the **ResNet50V2** deep learning model
 - **Grad-CAM** and **Grad-CAM++** visualizations for explaining model decisions.
 - **Integrated Gradients** for computing the importance of features in predictions.
 - **Graph-based representation** of model predictions, using clustering techniques to identify patterns.
-  
+
+## Citations
+
+If you use this code or framework in your work, please cite the following paper:
+
+@inproceedings{azam2025graph,
+  author = {Azam, Basim and Sanjeewani, Pubudu and Verma, Brijesh and Rahman, Ashfaqur and Wang, Lipo},
+  title = {A Novel Graph-Based Framework for Understanding of Decision-Making Process in Deep Learning Models},
+  booktitle = {IEEE Symposium Series on Computational Intelligence (SSCI)},
+  year = {2025},
+  address = {Trondheim, Norway}
+}
+
+## Contributions & Queries
+
+We welcome any questions or contributions related to this work. Please feel free to reach out to us:
+
+Pubudu Sanjeewani: p.thihagodagamage@griffith.edu.au
+Basim Azam: b.verma@griffith.edu.au
+
+We look forward to hearing from you!
+
 ## Requirements
 
 To run this project, the following Python libraries are required:
@@ -36,24 +57,3 @@ You can install these dependencies by running:
 
 ```bash
 pip install matplotlib networkx scikit-learn tensorflow numpy scikit-image
-
-**Citations**
-
-If you use this code or framework in your work, please cite the following paper:
-
-@inproceedings{azam2025graph,
-  author = {Azam, Basim and Sanjeewani, Pubudu and Verma, Brijesh and Rahman, Ashfaqur and Wang, Lipo},
-  title = {A Novel Graph-Based Framework for Understanding of Decision-Making Process in Deep Learning Models},
-  booktitle = {IEEE Symposium Series on Computational Intelligence (SSCI)},
-  year = {2025},
-  address = {Trondheim, Norway}
-}
-
-**Contributions & Queries**
-
-We welcome any questions or contributions related to this work. Please feel free to reach out to us:
-
-Pubudu Sanjeewani: p.thihagodagamage@griffith.edu.au
-Basim Azam: b.verma@griffith.edu.au
-
-We look forward to hearing from you!
