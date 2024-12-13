@@ -37,7 +37,9 @@ You can install these dependencies by running:
 ```bash
 pip install matplotlib networkx scikit-learn tensorflow numpy scikit-image
 
-## Citations
+**Citations**
+
+If you use this code or framework in your work, please cite the following paper:
 
 @inproceedings{azam2025graph,
   author = {Azam, Basim and Sanjeewani, Pubudu and Verma, Brijesh and Rahman, Ashfaqur and Wang, Lipo},
@@ -47,7 +49,7 @@ pip install matplotlib networkx scikit-learn tensorflow numpy scikit-image
   address = {Trondheim, Norway}
 }
 
-## Contributions & Queries
+**Contributions & Queries**
 
 We welcome any questions or contributions related to this work. Please feel free to reach out to us:
 
