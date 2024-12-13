@@ -25,12 +25,12 @@ The code provided in this repository uses the **ResNet50V2** deep learning model
 
 To run this project, the following Python libraries are required:
 
-- `matplotlib` - For plotting and visualizing graphs.
-- `networkx` - For graph creation and manipulation.
-- `scikit-learn` - For clustering (spectral clustering).
-- `tensorflow` - For deep learning models and image classification.
-- `numpy` - For numerical operations.
-- `scikit-image` - For image processing.
+- `matplotlib` - For plotting and visualizing graphs
+- `networkx` - For graph creation and manipulation
+- `scikit-learn` - For clustering (spectral clustering)
+- `tensorflow` - For deep learning models and image classification
+- `numpy` - For numerical operations
+- `scikit-image` - For image processing
 
 You can install these dependencies by running:
 
