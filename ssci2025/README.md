@@ -49,7 +49,7 @@ If you use this code or framework in your work, please cite the following paper:
   booktitle = {IEEE Symposium Series on Computational Intelligence (SSCI)},
   year = {2025},
   address = {Trondheim, Norway}
-```bash
+```
 
 ## Contributions & Queries
 
