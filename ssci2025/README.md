@@ -55,8 +55,7 @@ If you use this code or framework in your work, please cite the following paper:
 
 We welcome any questions or contributions related to this work. Please feel free to reach out to us:
 
-Pubudu Sanjeewani: p.thihagodagamage@griffith.edu.au
-Basim Azam: b.verma@griffith.edu.au
+Pubudu Sanjeewani: p.thihagodagamage@griffith.edu.au / pubudusanjeewani91@gmail.com
+Basim Azam: b.verma@griffith.edu.au / basimazam0@gmail.com
 
 We look forward to hearing from you!
-}
