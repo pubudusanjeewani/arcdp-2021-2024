@@ -2,12 +2,6 @@
 
 This repository contains the code and resources for the paper titled **"A Novel Graph-Based Framework for Understanding of Decision-Making Process in Deep Learning Models"**. The paper has been accepted for **IEEE Symposium Series on Computational Intelligence (SSCI), Trondheim, Norway, 2025**.
 
-## Paper Information
-
-- **Title**: A Novel Graph-Based Framework for Understanding of Decision-Making Process in Deep Learning Models
-- **Author**: Pubudu Sanjeewani Thihagoda Gamage
-- **Accepted**: SSCI 2025
-
 ## Introduction
 
 This project presents a novel framework for understanding decision-making processes in deep learning models. By using graph-based representations, the framework aims to provide insight into how deep learning models make predictions and how these decisions are influenced by the structure of data. The goal is to enhance model interpretability, which is crucial for fields like medical diagnostics, autonomous vehicles, and more.
