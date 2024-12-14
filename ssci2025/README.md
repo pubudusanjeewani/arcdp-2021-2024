@@ -23,6 +23,8 @@ The code provided in this repository uses the **ResNet50V2** deep learning model
 
 ## Requirements
 
+This project is designed to be run in a Jupyter Notebook. To get started, make sure you have Jupyter Notebook installed, or use an IDE that supports Jupyter (like VSCode or Google Colab). The images used in this project should be placed in the images folder in the root directory. However, you can use any image by simply providing the path to it in the code. 
+
 To run this project, the following Python libraries are required:
 
 - `matplotlib` - For plotting and visualizing graphs
