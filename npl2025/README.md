@@ -35,9 +35,3 @@ We validated the proposed method on two benchmark datasets: **MNIST** and **CIFA
 ---
 
 ## Installation
-
-To get started with this code, clone the repository and install the necessary dependencies:
-
-```bash
-git clone https://github.com/your-username/novel-cnn-training.git
-cd novel-cnn-training
