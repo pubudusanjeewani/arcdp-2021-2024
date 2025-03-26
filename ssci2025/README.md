@@ -34,10 +34,6 @@ You can install these dependencies by running:
 pip install matplotlib networkx scikit-learn tensorflow numpy scikit-image
 ```
 
-## Note on Code Development
-
-**Generative AI** (ChatGPT) was used in developing the code. However, the ideas, overall approach, and implementation are the result of the authors' contributions.
-
 ## Citations
 
 If you use this code or framework in your work, please cite the following paper:
