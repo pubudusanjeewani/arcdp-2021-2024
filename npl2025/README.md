@@ -34,3 +34,24 @@ extensive experimentation using most cited pre-trained experiments validate the 
 ---
 
 ## Installation
+
+---
+
+## Citations
+
+If you use this code or framework in your work, please cite the following paper:
+@inproceedings{azam2025gramschmidt,
+  author = {Azam, Basim and Kuttichira, Deepthi and Sanjeewani, Pubudu and Verma, Brijesh and Rahman, Ashfaqur and Wang, Lipo},
+  title = {A Novel Non-Iterative Training Method for CNN Classifiers Using Gram-Schmidt Process},
+  booktitle = {Neural Processing Letters},
+  year = {2025},
+  address = {}
+
+## Contributions & Queries
+
+We welcome any questions or contributions related to this work. Please feel free to reach out to us:
+
+Pubudu Sanjeewani: p.thihagodagamage@griffith.edu.au / pubudusanjeewani91@gmail.com
+Basim Azam: b.azam@griffith.edu.au / basimazam0@gmail.com
+
+We look forward to hearing from you!
