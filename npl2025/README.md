@@ -48,7 +48,7 @@ If you use this code or framework in your work, please cite the following paper:
   booktitle = {Neural Processing Letters},
   year = {2025},
   address = {}
-```bash
+```
 
 ## Contributions & Queries
 
