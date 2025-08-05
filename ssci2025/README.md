@@ -42,9 +42,11 @@ If you use this code or framework in your work, please cite the following paper:
 @inproceedings{azam2025graph,
   author = {Azam, Basim and Sanjeewani, Pubudu and Verma, Brijesh and Rahman, Ashfaqur and Wang, Lipo},
   title = {A Novel Graph-Based Framework for Understanding of Decision-Making Process in Deep Learning Models},
-  booktitle = {IEEE Symposium Series on Computational Intelligence (SSCI)},
+  booktitle = {IEEE Symposium on Trustworthy, Explainable and Responsible Computational Intelligence (CITREx Companion)},
   year = {2025},
-  address = {Trondheim, Norway}
+  pages = 1--5,
+  address = {Trondheim, Norway},
+  doi = {10.1109/CITRExCompanion65208.2025.10981494}
 ```
 
 ## Contributions & Queries
