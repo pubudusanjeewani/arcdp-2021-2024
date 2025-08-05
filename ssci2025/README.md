@@ -44,7 +44,7 @@ If you use this code or framework in your work, please cite the following paper:
   title = {A Novel Graph-Based Framework for Understanding of Decision-Making Process in Deep Learning Models},
   booktitle = {IEEE Symposium on Trustworthy, Explainable and Responsible Computational Intelligence (CITREx Companion)},
   year = {2025},
-  pages = 1--5,
+  pages = {1--5},
   address = {Trondheim, Norway},
   doi = {10.1109/CITRExCompanion65208.2025.10981494}
 ```
