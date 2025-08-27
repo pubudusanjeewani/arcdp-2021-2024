@@ -2,7 +2,6 @@
 ## Overview
 
 This repository contains the code for the paper titled **"Unified Graph-Based Framework for Visual Explainability in Convolutional Neural Networks"** by Basim Azam, Pubudu Sanjeewani, Brijesh Verma, Ashfaqur Rahman, and Lipo Wang. The proposed method identifies critical input regions, enhancing understanding of model behavior through intuitive visual heatmaps and graph-based representations. 
-Keywords: Explainability, GradCAM, Graph, Convolutional Neural Network
 
 
 ### Authors:
