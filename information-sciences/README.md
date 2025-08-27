@@ -50,7 +50,7 @@ explainable AI.
 - Validation on image classification and segmentation datasets with pre-trained networks
 - Comprehensive evaluation using faithfulness, robustness, and computational efficiency metrics
 - Enhanced interpretability through detailed feature interaction analysis
-- Contribution toward transparent and robust model explanations in explainable A
+- Contribution toward transparent and robust model explanations in explainable AI
 
 ---
 
