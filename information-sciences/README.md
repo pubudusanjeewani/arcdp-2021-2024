@@ -18,39 +18,17 @@ This repository contains the code for the paper titled **"Unified Graph-Based Fr
 
 ## Abstract
 
-In deep learning, the opaqueness of complex models poses significant challenges
-to their broader acceptance and trustworthiness. Existing explainability methods
-typically focus either on local or global model insights, failing to integrate these
-perspectives into a cohesive understanding. This work introduces a novel frame-
-work that leverages GradCAM++ and Integrated Gradients with graph-based
-techniques to provide a comprehensive, multi-perspective explanation of deep
-learning models. The proposed method identifies critical input regions, enhanc-
-ing understanding of model behavior through intuitive visual heatmaps and
-graph-based representations. In the proposed technique, nodes depict clusters of
-significant features, while edges quantify the intensity of their interactions, offer-
-ing insights into both localized and systemic feature relationships. We validate
-our framework on standard image classification and segmentation datasets using
-pre-trained networks, demonstrating enhanced model interpretability through
-detailed feature interaction analysis. Furthermore, we present comprehensive
-evaluation based on faithfulness, robustness, and computational efficiency met-
-rics, ensuring the framework’s reliability and practical applicability. The extended
-evaluation provides the utility of proposed approach to provide transparent and
-robust model explanations, contributing significantly to the field’s pursuit of
-explainable AI.
+In deep learning, understanding the decision-making processes of complex models is essential for advancing interpretability and trust in artificial intelligence systems. We introduce Causal Relational Attribution Graph (C-RAG), designed to deliver comprehensive, multi-perspective explanations of convolutional neural networks (CNNs) via a graph representation. C-RAG integrates gradient-based local attribution with global feature importance by constructing a graph-based representation that captures hierarchical feature inter-dependencies. In this framework, feature clusters are represented as graph nodes, and their interactions are quantified through combined localized and global attribution metrics, ensuring interpretable insights into model behavior. We evaluate C-RAG across diverse benchmark datasets (ImageNet, CIFAR-10, MNIST) and CNN architectures (ResNet18, VGG19, DenseNet201, LeNet), demonstrating significant advancements over state-of-the-art explainability methods in faithfulness, robustness, and computational efficiency. The proposed approach facilitates accurate spatial feature localization, robust dependency mapping, and efficient explanation generation, making it a valuable tool for critical applications such as medical imaging and autonomous systems. We provide a novel graph-based explainability framework, which bridges the gap between local and global interpretability, C-RAG addresses key limitations in existing methods, establishing a robust foundation for explainable AI in computer vision.
 
 ---
 
-## Features
+## Highlights
 
-- Integration of local (GradCAM++) and global (Integrated Gradients) explainability methods
-- Novel graph-based framework for multi-perspective explanations
-- Visual heatmaps combined with graph-based feature interaction representations
-- Nodes represent clusters of significant features
-- Edges quantify intensity of feature interactions
-- Validation on image classification and segmentation datasets with pre-trained networks
-- Comprehensive evaluation using faithfulness, robustness, and computational efficiency metrics
-- Enhanced interpretability through detailed feature interaction analysis
-- Contribution toward transparent and robust model explanations in explainable AI
+- Graph view unifies local and global attributions.
+- C-RAG models feature dependencies with weighted edges.
+- Higher faithfulness and robustness across CNN backbones.
+- Tighter localization with lower explanation complexity.
+- Scales to real-time with efficient computation.
 
 ---
 
@@ -70,7 +48,7 @@ If you use this code or framework in your work, please cite the following paper:
   volume = {},
   number = {},
   year = {2025},
-  doi = {}
+  doi = {https://www.sciencedirect.com/science/article/pii/S0020025525007819?via%3Dihub}
 ```
 
 ## Contributions & Queries
